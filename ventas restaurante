@@ -1,0 +1,16 @@
+date, platillo, categoria, precio, cantidad, sucursal
+2024-03-01, Hamburguesa, Comida, 120, 10, Centro
+2024-03-02, Pizza, Comida, "150",8, Norte
+2024-03-03, Ensalada, Saludable, 90,5, Sur
+2024-03-04, Tacos, Comida, 60,20, Centro
+2024-03-05, Batido, Bebida, 80,7, Norte
+2024-03-06, Cafe, Bebida, 40, 15, Sur
+2024-03-07, Hamburguesa, Comida, 130,, Centro
+2024-03-08, Pizza, Comida, 160,9, Norte
+2024-03-09, Ensalada,, 95,6, Sur
+2024-03-10,Tacos, Comida, 65, 18, Centro
+2024-03-11,Batido, Bebida, 85, 10, Norte
+2024-03-12,Cafe, Bebida, "45", 12, Sur
+2024-03-13, Hamburguesa, Comida, 125, 11, Centro
+2024-03-14, Pizza, Comida, 155,7, Norte
+2024-03-15, Ensalada, Saludable, 100,-3, Sur
